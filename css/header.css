@@ -1,0 +1,32 @@
+
+
+
+
+.container {
+    margin: 20px;
+    text-align: center;
+}
+
+.logo {
+text-align: center;
+}
+
+.navigation-buttons {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 5px;
+    text-align: center;
+
+}
+.nav {
+    text-decoration: none;
+    padding: 10px;
+    line-height: 2.7rem;
+    color: black;
+    background-color: blanchedalmond;
+}
+
+.nav:hover {
+    color: blanchedalmond;
+    background-color: black;
+}
